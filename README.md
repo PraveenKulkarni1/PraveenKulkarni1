@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Praveen
 - 👀 I’m currently working Blood-Bank
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on 
+-    Ask me about javascript,react 
 - 📫 How to reach me praveenkulkarni.pnk@gmail.com
 
 
